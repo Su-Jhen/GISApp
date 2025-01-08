@@ -1,5 +1,5 @@
 {
-  "name": "My PWA Website",
+  "name": "Mosquito Map",
   "short_name": "PWA",
   "start_url": "/GISApp/",
   "display": "standalone",
